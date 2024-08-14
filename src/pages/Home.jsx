@@ -3,7 +3,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
 import "../css/home.css"
 import Casual from '../components/casual';
+<<<<<<< HEAD
 import Historia from '../components/historia';
+=======
+import Esportes from '../components/Esportes';
+>>>>>>> 15cddb43d908e56aee3fa052f193e42db0595bcf
 function Home() {
     return (
         <>
@@ -32,8 +36,13 @@ function Home() {
                     </Carousel.Item>
                 </Carousel>
             </div>
+            <Esportes/>
             <Casual/>
+<<<<<<< HEAD
             <Historia/>
+=======
+            
+>>>>>>> 15cddb43d908e56aee3fa052f193e42db0595bcf
         </>
     )
 }
