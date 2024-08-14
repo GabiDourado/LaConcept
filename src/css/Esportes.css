@@ -8,6 +8,7 @@
     margin-left: 58rem;
 }
 .CaixaEsporte{
+    margin-top: 5rem;
     display: flex;
 }
 .DivMaior02{
@@ -15,7 +16,7 @@
     height: 550px;
     width: 350px;
     margin-top: 50px;
-    margin-bottom: 50rem;
+    margin-bottom: 7rem;
     object-fit: cover;
     margin-left: -40rem;
 }
@@ -24,7 +25,6 @@
     height: 550px;
     width: 350px;
     margin-top: 50px;
-    margin-bottom: 50rem;
     object-fit: cover;
     margin-left: 5rem;
 }

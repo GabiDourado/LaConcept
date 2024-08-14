@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './css/App.css';
 import Home from './pages/Home';
-import Esportes from './components/Esportes';
+import Menu from './components/Menu';
 
 function App() {
   return (
     <div className="App">
-     <Home/>
-     <Esportes/>
+      <Menu/>
+      <Home/>
     </div>
   );
 }
