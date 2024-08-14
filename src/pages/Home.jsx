@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
 import "../css/home.css"
 import Casual from '../components/casual';
+import Historia from '../components/historia';
 function Home() {
     return (
         <>
@@ -32,6 +33,7 @@ function Home() {
                 </Carousel>
             </div>
             <Casual/>
+            <Historia/>
         </>
     )
 }
