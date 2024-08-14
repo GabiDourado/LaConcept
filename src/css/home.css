@@ -1,0 +1,9 @@
+.carrossel{
+    width: 80%;
+    height: 550px;
+    object-fit: contain;
+
+}
+.voltacarro{
+    margin-top: 50px;
+}
