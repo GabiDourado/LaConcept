@@ -2,6 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
 import "../css/home.css"
+import Casual from '../components/casual';
 function Home() {
     return (
         <>
@@ -30,6 +31,7 @@ function Home() {
                     </Carousel.Item>
                 </Carousel>
             </div>
+            <Casual/>
         </>
     )
 }
