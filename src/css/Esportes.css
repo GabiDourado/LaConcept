@@ -1,0 +1,30 @@
+.CaixaEsporte{
+    background-color: black;
+}
+.Texto{
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    margin-left: 58rem;
+}
+.CaixaEsporte{
+    display: flex;
+}
+.DivMaior02{
+    background-color: aqua;
+    height: 550px;
+    width: 350px;
+    margin-top: 50px;
+    margin-bottom: 50rem;
+    object-fit: cover;
+    margin-left: -40rem;
+}
+.DivMaior{
+    background-color: aqua;
+    height: 550px;
+    width: 350px;
+    margin-top: 50px;
+    margin-bottom: 50rem;
+    object-fit: cover;
+    margin-left: 5rem;
+}
